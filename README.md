@@ -26,10 +26,10 @@ Used NVM Version : 18.16.0 (Currently using 64-bit executable)
 
 ## visual representation
 
-+---------------+
-|   Start       |
-|               v
-+--------+-------------+
+     +---------------+
+     |   Start       |
+     |               v
+     +--------+--------+
          |             |
          |             |
          v             |
